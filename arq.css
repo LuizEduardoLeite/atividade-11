@@ -18,7 +18,7 @@ body{
     grid-template-rows: 20px;
     height: 600px;
     width: 100%;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     border: 1px solid black;
       
 }
@@ -31,7 +31,7 @@ body{
     grid-template-columns: 1fr;
     height: 95vh;
     width: 210vh;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     border: 1px solid black;
     
     grid-template-areas: 
@@ -56,7 +56,7 @@ body{
     grid-template-columns: 50px;
     height: 95vh;
     width: 210vh;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     border: 1px solid black;
     
 }
@@ -70,7 +70,7 @@ body{
     border:1px solid black;
     height: 95vh;
     width: 210vh;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     
     grid-template-areas:
     'g4e g4m g4d'
@@ -91,7 +91,7 @@ body{
     display: grid;
     height: 95vh;
     width: 210vh;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     border: 1px solid black;
     
     grid-template-rows: 50px ;
@@ -119,7 +119,7 @@ body{
     border:1px solid black;
     height: 95vh;
     width: 210vh;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     
     grid-template-areas: 
     'g6c g6c g6c'
@@ -149,7 +149,7 @@ grid-area:g6m ;
     border:1px solid black;
     height: 95vh;
     width: 210vh;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     
     grid-template-areas:
     'g7c g7c g7c'
@@ -184,7 +184,7 @@ grid-area:g6m ;
     border:1px solid black;
     height: 95vh;
     width: 210vh;
-    margin: 10px;
+    margin: 10px 0px 10px 0px;
     
 }
 .g8m{
